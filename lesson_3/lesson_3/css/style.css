@@ -1,0 +1,40 @@
+h1{
+	color: blue;
+}
+
+h2{
+	color: darkcyan;
+}
+
+.intro{
+	color: orangered;
+}
+
+.data-type-private,
+.data-type-company{
+	color: cornflowerblue;
+}
+
+.data p{
+	color: blueviolet;
+}
+
+.data > h2{
+	color: green;
+}
+
+.data ~ p{
+	color: darkred;
+}
+
+.data + h2{
+	color: red;
+}
+
+ul{
+	color: plum;
+}
+
+#data-protect p{
+	color: yellowgreen;
+}
